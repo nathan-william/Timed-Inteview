@@ -1,0 +1,3 @@
+oldy = y;
+
+creditos = false;
